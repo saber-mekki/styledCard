@@ -47,17 +47,6 @@ export default function App() {
                 />{" "}
               </div>
             </div>
-            {
-              // <div className="color">
-              //<h3>Color :</h3>
-              //  <span></span>
-              //  <span></span>
-              // <span></span>
-              //  </div>
-            }
-            {
-              //<a href="#">Buy Now</a>
-            }
           </div>
         </Card>
       </div>

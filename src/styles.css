@@ -42,7 +42,7 @@ body {
 }
 
 .container .card:after {
-  content: "Aures";
+  content: "saber";
   position: absolute;
   top: 40%;
   font-size: 7em;
